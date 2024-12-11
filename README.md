@@ -1,0 +1,1 @@
+This is the database from the "Journal of Materials Chemistry A" manuscript titled "Layer-dependent Mechanical and Thermal Properties of Ruddlesden-Popper Perovskites Using High-throughput DFT Calculations." For a comprehensive explanation of the database and the methods used to generate it, please refer to the full article once it has been accepted.
